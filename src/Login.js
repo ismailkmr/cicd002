@@ -63,6 +63,3 @@ function App() {
     </Routes>
   );
 }
-
-// ...existing code...
-export default App;
